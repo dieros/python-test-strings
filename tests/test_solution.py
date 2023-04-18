@@ -1,4 +1,3 @@
-import pytest
 from solution.solution import solution
 
 
